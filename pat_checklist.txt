@@ -1,5 +1,5 @@
-1	Site folder available with index.
-2	Checklist completed and signed by the installation supervisor/Hardware audit available.
+#### 1	Site folder available with index.
+#### 2	Checklist completed and signed by the installation supervisor/Hardware audit available.
 3	Asset -floor plan - rack layout -IP plan- power plan should be available.
 4	Documents should be aproned before installation.
 5	The cabinet shall be installed according to floor plan.
