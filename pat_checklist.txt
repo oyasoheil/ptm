@@ -1,5 +1,3 @@
-# PAT Checklist
-
 1. Site folder available with index.
 2. Checklist completed and signed by the installation supervisor/Hardware audit available.
 3. Asset - floor plan - rack layout - IP plan - power plan should be available.
